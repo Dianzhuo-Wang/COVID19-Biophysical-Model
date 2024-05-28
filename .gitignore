@@ -1,0 +1,4 @@
+# Ignore specific database files in the data folder
+data/unique_mutant_sequence_emb_esm1v_650m.pkl
+data/df_Desai_15loci_complete.csv
+data/rbd_df.csv
