@@ -25,4 +25,4 @@ If you use the code or predictions please consider citing:
 	doi = {10.1101/2023.07.23.549087},
 	publisher = {Cold Spring Harbor Laboratory}}
 ```
-For any question please email johnwang at g.harvard.edu
+For any questions, please email johnwang at g.harvard.edu
